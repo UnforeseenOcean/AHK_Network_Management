@@ -12,7 +12,7 @@ The network management functions provide the ability to manage user accounts and
 
 
 ## Questions / Bugs / Issues
-If you notice any kind of bugs or issues, report them on the [AHK Thread](https://autohotkey.com/boards/viewtopic.php?t=15943). Same for any kind of questions.
+If you notice any kind of bugs or issues, report them on the [AHK Thread](https://autohotkey.com/boards/viewtopic.php?t=38283). Same for any kind of questions.
 
 
 ## Copyright and License
